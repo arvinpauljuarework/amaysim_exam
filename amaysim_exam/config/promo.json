@@ -1,0 +1,19 @@
+{
+	"minus_1": {
+		"ult_small": {
+			"count": 3
+		}
+	},
+	"all": {
+		"ult_large": {
+			"promo": 39.90,
+			"count": 3
+		}
+	},
+	"add": {
+		"ult_medium": {
+			"promo": "1gb",
+			"count": 1
+		}
+	}
+}
